@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67646602fbc36994cb400a3847c69c0b, type: 3}
+  m_Name: New Effect Database
+  m_EditorClassIdentifier: 
+  EffectList:
+  - EffectTag: Electric
+    Effect: {fileID: 6756802813989108650, guid: 62ef73c15146cda47bb8ffcc6bf73338, type: 3}
+  - EffectTag: Hit
+    Effect: {fileID: 3617178809750808385, guid: 45151a9af0151d340843495dc9847274, type: 3}
+  - EffectTag: Smoke
+    Effect: {fileID: 8136836321264315875, guid: 75f655f690f7b4c4da8cce036ccd6c8a, type: 3}
+  - EffectTag: Smoke_Explosion
+    Effect: {fileID: 802995560584707924, guid: e64e838d438b1f2499f63f2a62e3e3c4, type: 3}
+  - EffectTag: StunStar
+    Effect: {fileID: 9069374387695237762, guid: c4efb1c2d71cebb4582de1e1a401728c, type: 3}
+  - EffectTag: Twinkle
+    Effect: {fileID: 2316366781979178974, guid: 49fd2f21831e99842bf0ea776df6275f, type: 3}
+  - EffectTag: trap
+    Effect: {fileID: 5016352734787566340, guid: eab64e49f5c4c6849a12ed66f18665b5, type: 3}

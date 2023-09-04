@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f8a4edd9f801845bedb75ecf096ee3, type: 3}
+  m_Name: Melee
+  m_EditorClassIdentifier: 
+  Cost: 2c010000f401000020030000e80300001405000000000000
+  Title: "\uACBD\uBE44\uBD09 \uD6C8\uB828\uD558\uAE30"
+  Content: "\uCC28\uC9D5\uD588\uC744 \uB54C \uB370\uBBF8\uC9C0\uAC00 \uD5A5\uC0C1\uB429\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 9004bcc2dcbdda64fa39daba57bf0b75, type: 3}

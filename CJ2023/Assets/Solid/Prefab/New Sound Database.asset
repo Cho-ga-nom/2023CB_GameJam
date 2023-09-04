@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c1bec4522ddd214f9e514ed45cf41d2, type: 3}
+  m_Name: New Sound Database
+  m_EditorClassIdentifier: 
+  AudioList:
+  - AudioTag: Walk
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: c66c56fc7ff50214bbe867754f041c53, type: 3}
+    maxCount: 0
+  - AudioTag: Run
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 3d238821403e44e4cbda58452a9d0a7d, type: 3}
+    maxCount: 0
+  - AudioTag: ClubSwing
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 322497da1083ba34ea46b032b8638127, type: 3}
+    maxCount: 0
+  - AudioTag: ClubAttack
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 6cb9447a54e58d04d817ced52417f0d9, type: 3}
+    maxCount: 0
+  - AudioTag: TaserGun
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 5910f4f795649a94384f6f40e3928e43, type: 3}
+    maxCount: 0
+  - AudioTag: PickupStatue
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: ca09f4e323f66974f97e4253e3b18a3f, type: 3}
+    maxCount: 0
+  - AudioTag: PutStatue
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 59f7a442324fea04ca72a653e014f8d8, type: 3}
+    maxCount: 0
+  - AudioTag: Prison
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 8ed6b0735b95c4441927fc227a1733f0, type: 3}
+    maxCount: 0
+  - AudioTag: ChargeAttack
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 9b136d539869a6a47a6b8c9dabe0e9c2, type: 3}
+    maxCount: 0
+  - AudioTag: PlayerHit
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: dd4181a84a718194fbec34dddc46c991, type: 3}
+    maxCount: 0
+  - AudioTag: PickupTarget
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 45ec17c59fde59f4e9cde82ddc96aa96, type: 3}
+    maxCount: 0
+  - AudioTag: Tieup
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 0a6a83d60f57b774c916b089037be2ba, type: 3}
+    maxCount: 0
+  - AudioTag: Roll
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: d23fe4dbee07ba8478bd9ea19552c5be, type: 3}
+    maxCount: 0
+  - AudioTag: Charging
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 6d7439ccb55c0774a9842147b56d8f39, type: 3}
+    maxCount: 0
+  - AudioTag: TaserGunShot
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: c79003506f8157a43801a1b8a15c38ce, type: 3}
+    maxCount: 0
+  - AudioTag: ButtonSound
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 3779dfd2fa11ba64489b749c5b1c082d, type: 3}
+    maxCount: 0
+  - AudioTag: StageClear
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 3fcc4f0ee6f17f845b13e699654f0e14, type: 3}
+    maxCount: 0
+  - AudioTag: GameOver
+    Volume: 1
+    StartTime: 0
+    Pitch: {x: 1, y: 0}
+    Clip: {fileID: 8300000, guid: 8bd07b1884e035e46836def63e8a996e, type: 3}
+    maxCount: 0

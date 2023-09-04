@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 21ea54513a9566e41a40365e82253334
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Melee: {fileID: 11400000, guid: 1899e9b2fa0a5ee4b9ca3719c38b024d, type: 2}
+  - MeleeStore: {instanceID: 0}
+  - Move: {fileID: 11400000, guid: 43dda938880349843be8dfe0b670d692, type: 2}
+  - MoveStore: {instanceID: 0}
+  - Hp: {fileID: 11400000, guid: 44cacc1689202a44092b8c8c4d9660ae, type: 2}
+  - HpStore: {instanceID: 0}
+  - Lock: {fileID: 11400000, guid: cd824948609b4a445af7b27e35ecfde5, type: 2}
+  - LockStore: {instanceID: 0}
+  - Capture: {fileID: 11400000, guid: d2ecefeb9181c0146947bc7fc7c20f32, type: 2}
+  - CaptureStore: {instanceID: 0}
+  - Bulit: {fileID: 11400000, guid: 9169347c3b48b3145873c60aebae07a0, type: 2}
+  - BulitStore: {instanceID: 0}
+  - Tie: {fileID: 11400000, guid: cf0cfef61f852d04aa585d9ce1e14cff, type: 2}
+  - TieStore: {instanceID: 0}
+  - Trap: {fileID: 11400000, guid: 67a04e4e32c4a6a4caafb12e4b548048, type: 2}
+  - TrapStore: {instanceID: 0}
+  - NowPlayerData: {instanceID: 0}
+  - StoreData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

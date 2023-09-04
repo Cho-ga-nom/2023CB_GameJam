@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6218006276512953022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6218006276512953016}
+  - component: {fileID: 6218006276512953017}
+  m_Layer: 0
+  m_Name: DataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6218006276512953016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6218006276512953022}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 334.4376, y: 86.093796, z: 12.157855}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6218006276512953017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6218006276512953022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3052ff9de861dd94e9943456f371a5a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerData: {fileID: 11400000, guid: d9ca1d5aeae4e4a41803d0da52ac7f9c, type: 2}
+  NowPlayerData: {fileID: 11400000, guid: 95002215ea350ed4fa5adf9bdfa52f06, type: 2}
+  MaxStateData: {fileID: 11400000, guid: 2efe6430f020f0a468fc3f1e38f914aa, type: 2}
+  StoreData: {fileID: 11400000, guid: 407c1712610af4749b5686cad2811a86, type: 2}
+  ItemData:
+  - {fileID: 11400000, guid: 9169347c3b48b3145873c60aebae07a0, type: 2}
+  - {fileID: 11400000, guid: d2ecefeb9181c0146947bc7fc7c20f32, type: 2}
+  - {fileID: 11400000, guid: 44cacc1689202a44092b8c8c4d9660ae, type: 2}
+  - {fileID: 11400000, guid: cd824948609b4a445af7b27e35ecfde5, type: 2}
+  - {fileID: 11400000, guid: 1899e9b2fa0a5ee4b9ca3719c38b024d, type: 2}
+  - {fileID: 11400000, guid: 43dda938880349843be8dfe0b670d692, type: 2}
+  - {fileID: 11400000, guid: cf0cfef61f852d04aa585d9ce1e14cff, type: 2}
+  - {fileID: 11400000, guid: 67a04e4e32c4a6a4caafb12e4b548048, type: 2}
+  MobData:
+  - {fileID: 11400000, guid: 354a390183e53454e953fc17c4f94d35, type: 2}
+  - {fileID: 11400000, guid: 7c9b6a4e851761a48af3f8b19e7ba1a8, type: 2}
+  - {fileID: 11400000, guid: da79c5d72ae17f24fa4ebac59a0e4157, type: 2}
+  - {fileID: 11400000, guid: d9ca1d5aeae4e4a41803d0da52ac7f9c, type: 2}
+  - {fileID: 11400000, guid: af90c6cfdb310b54ebe7b4b78aa2b31c, type: 2}
+  SoundDatabase: {fileID: 11400000, guid: 33a8829b047ebbe449ac4f2e13dd1033, type: 2}
+  EffectDatabase: {fileID: 11400000, guid: 00fff90494ae89e4bbe1a8d077138a04, type: 2}
+  ropePrefab: {fileID: 4194938313364744055, guid: 7136575640a38e243abe0b410e3878ed, type: 3}
+  trapPrefab: {fileID: 2457276728563335712, guid: f547b34aec4f81d4c9f471cb2c42045f, type: 3}
+  trap: {fileID: 4779200628809937491, guid: fe2e186a7e5ea36498ce28ee3bf30bb9, type: 3}

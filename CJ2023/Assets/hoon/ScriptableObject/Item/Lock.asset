@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f8a4edd9f801845bedb75ecf096ee3, type: 3}
+  m_Name: Lock
+  m_EditorClassIdentifier: 
+  Cost: 2c010000f401000020030000e80300001405000000000000
+  Title: "\uC7A0\uAE08\uC7A5\uCE58 \uC5C5\uADF8\uB798\uC774\uB4DC \uAD6C\uB9E4"
+  Content: "\uC804\uC2DC\uBB3C\uC744 \uBC14\uB85C \uD6D4\uCCD0\uAC00\uC9C0 \uBABB\uD558\uB3C4\uB85D
+    \uC7A0\uAE08\uD574      \uB2E4\uC911\uC73C\uB85C \uBCF4\uD638\uAC00 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 2ec72f547d9a84749a83e0305cf197bf, type: 3}

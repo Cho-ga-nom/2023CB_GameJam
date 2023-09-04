@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f8a4edd9f801845bedb75ecf096ee3, type: 3}
+  m_Name: Tie
+  m_EditorClassIdentifier: 
+  Cost: 6400000064000000640000006400000064000000640000006400000064000000640000006400000000000000
+  Title: "\uD3EC\uC2B9\uC904"
+  Content: "\uC801\uC744 \uC7A0\uC2DC \uC7A1\uC544\uB458 \uB54C \uC0AC\uC6A9\uD569\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: edc9b2f6c2cf73e438b4bb989e06932d, type: 3}

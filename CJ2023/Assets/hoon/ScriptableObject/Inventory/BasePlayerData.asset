@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d06f8d19d4110f458ec86c328433d63, type: 3}
+  m_Name: BasePlayerData
+  m_EditorClassIdentifier: 
+  MeleeLv: 0
+  MoveLv: 0
+  HpLv: 0
+  LockLv: 0
+  CaptureLv: 0
+  BulietAmount: -1
+  TieAmount: 3
+  TrapAmount: 0
+  MeleaDamegeAdd: 0
+  MoveSpeedAdd: 0
+  HpMaxAdd: 0
+  CaptureTimeAdd: 0
+  LockDelayPer: 0
